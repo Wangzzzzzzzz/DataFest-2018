@@ -1,3 +1,3 @@
 # DataFest-2018
 
-### Award: "Judges' Choice"
+* Award: "Judges' Choice"
